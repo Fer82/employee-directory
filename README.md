@@ -22,14 +22,14 @@ Click <a href="https://fer82.github.io/employee-directory/" target="_blank">here
 * It requires node.js to run it.
 
 ## Usage 
-If using from the Github pages deployed application, just go to the deployed application's [link](https://fer82.github.io/H-19-Employee-Directory/). When the page is loaded, a list of 150 employees is rendered which includes a picture, their name, phone number, email address, and location. The user can click the filter by drop down and select whether they would like to filter by state or name. If name is chose, you can enter a string and click submit. It will filter the list of employees to include only those who name contains the string that was entered. If filtering by state, the state needs to be correctly typed in at which point on click of the submit button, it will filter the list to show only those whose location is that state. The user can also sort alphabetically, descending and ascending by first or last name by clicking the option in the sort by drop down. If running off a local server, first do an npm install then run the server by running the "npm start" command in a gitbash terminal. This will initialize the React app.
+If using from the Github pages deployed application, just go to the deployed application's [link](https://fer82.github.io/employee-directory/). When the page is loaded, a list of 150 employees is rendered which includes a picture, their name, phone number, email address, and location. The user can click the filter by drop down and select whether they would like to filter by state or name. If name is chose, you can enter a string and click submit. It will filter the list of employees to include only those who name contains the string that was entered. If filtering by state, the state needs to be correctly typed in at which point on click of the submit button, it will filter the list to show only those whose location is that state. The user can also sort alphabetically, descending and ascending by first or last name by clicking the option in the sort by drop down. If running off a local server, first do an npm install then run the server by running the "npm start" command in a gitbash terminal. This will initialize the React app.
 
 ## License 
  ISC
 
 ## Badges 
- ![languages badge](https://img.shields.io/github/languages/count/Fer82/employee_directory)
- ![languages badge](https://img.shields.io/github/languages/top/Fer82/employee_directory)
+ ![languages badge](https://img.shields.io/github/languages/count/Fer82/employee-directory)
+ ![languages badge](https://img.shields.io/github/languages/top/Fer82/employee-directory)
 
 ## Tests 
  No tests are currently in place for this project.
