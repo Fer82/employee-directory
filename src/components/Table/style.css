@@ -1,0 +1,22 @@
+.data-area {
+  margin: 0 auto;
+  width: 90%;
+}
+
+.datatable .col {
+  cursor: pointer;
+  font-family: 'Quattrocento Sans', sans-serif;  
+}
+
+.datatable .col .pointer:after {
+  font-size: 100%;
+  content: "";
+  margin-right: 18px;
+}
+
+.datatable .col .pointer:hover:after {
+  font-size: 100%;
+  content: "⇩";
+  margin-right: 0;
+  margin-left: 5px;
+}
