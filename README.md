@@ -1,7 +1,7 @@
 # Employee Directory
 UCI Boot Camp Homework 19 - Employee Directory
 
-Click [here](https://fer82.github.io/H-19-Employee-Directory/) to open deployed Github pages application.
+Click [here](https://fer82.github.io/employee-directory/) to open deployed Github pages application.
 
 ![deployed application](public/employee.jpg)
 
